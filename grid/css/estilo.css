@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    background: #b1ff8c;
+    font-size: 16px;
+}
+
+.grid{
+    margin-top: 70px;
+    background-color: #f9fffd;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.item{
+    background-color: #008080;
+    border-radius: 10px;
+    color: #f9fffd;
+    padding: 10px 0 0 10px;
+} */
+
+header{
+    background: #00ffff;
+}
+
+main{
+    background: #0080ff;
+}
+aside{
+    background: #ff8040;
+}
+
+footer{
+    background: #ff80ff;
+}

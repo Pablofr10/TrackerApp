@@ -1,0 +1,23 @@
+.item{
+    width: 200px;
+    margin: 0 1em;
+    background: #ff80c0;
+    border-radius: 10px;
+}
+
+.flex{
+    height: 100px;;
+    display: flex;
+    /* justify-content: space-around; */
+    align-content: space-between;
+}
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item-1:nth-child(1){
+    align-self: flex-end;
+    align-items: flex-end;
+}
